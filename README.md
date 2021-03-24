@@ -58,3 +58,4 @@ Para validar qual ferramenta, ou quais ferramentas, podem fazer parte do seu dia
 
 Exemplo:
 
+![exemplo de de comparação entre cypress, robot framework e restassured](https://github.com/oindiao/comparacao-ferramentas-automacao-testes/blob/main/exemplo.PNG)
